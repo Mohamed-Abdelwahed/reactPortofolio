@@ -1,7 +1,5 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <img width="945" alt="Screen Shot 2023-02-19 at 12 39 28 PM" src="https://github.com/Mohamed-Abdelwahed/reactPortofolio/assets/86673523/b225f862-b543-4016-925c-208d33fe16d1">
 
 Built using:
